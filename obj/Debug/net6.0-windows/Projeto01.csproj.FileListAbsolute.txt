@@ -1,0 +1,17 @@
+D:\Unip\POO\Desafio1\Projeto01\bin\Debug\net6.0-windows\Projeto01.exe
+D:\Unip\POO\Desafio1\Projeto01\bin\Debug\net6.0-windows\Projeto01.deps.json
+D:\Unip\POO\Desafio1\Projeto01\bin\Debug\net6.0-windows\Projeto01.runtimeconfig.json
+D:\Unip\POO\Desafio1\Projeto01\bin\Debug\net6.0-windows\Projeto01.dll
+D:\Unip\POO\Desafio1\Projeto01\bin\Debug\net6.0-windows\Projeto01.pdb
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.csproj.AssemblyReference.cache
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.FrmHelloWorld.resources
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.csproj.GenerateResource.cache
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.AssemblyInfoInputs.cache
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.AssemblyInfo.cs
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.csproj.CoreCompileInputs.cache
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.dll
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\refint\Projeto01.dll
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.pdb
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\Projeto01.genruntimeconfig.cache
+D:\Unip\POO\Desafio1\Projeto01\obj\Debug\net6.0-windows\ref\Projeto01.dll
